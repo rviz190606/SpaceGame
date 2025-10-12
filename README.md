@@ -55,7 +55,7 @@ make
 ```
 
 ## Credits and Acknowledgement
-- Backing track is メイド幻想　～ Icemilk Magic (Illusion of a Maid ~ Icemilk Magic) by ZUN
+- Background music is メイド幻想　～ Icemilk Magic (Illusion of a Maid ~ Icemilk Magic) by ZUN
 - My roommate is a big Touhou fan and forced me to make this the background song, please redirect all legal claims and disputes to him
 
 
